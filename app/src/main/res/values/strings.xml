@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="city_hint">Kota Tujuan</string>
+    <string name="search_button">Lihat Cuaca</string>
+    <string name="by">By: Deo Lolowang</string>
+</resources>
